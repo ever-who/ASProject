@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChargeStop</string>
+    <string name="charge_warning">请停止充电</string>
+</resources>
